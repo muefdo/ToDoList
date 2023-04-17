@@ -1,5 +1,4 @@
 # React ile yazılmış To-Do List
-producter.co için hazırlanmıştır.
 
 # Test etmek için
 
