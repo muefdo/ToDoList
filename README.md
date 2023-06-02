@@ -1,6 +1,9 @@
-# React ile yazılmış To-Do List
+To-Do List uygulaması 
 
-# Test etmek için
+ilk ReactJS başlangıç projelerimden, çok basit bir şekilde hazırladığım to do list
+
+
+Test etmek için..
 
 Zeet yardımı ile Amazon aws ye yükledim. Aşağıdaki linkten Test edebilirsiniz.
 
